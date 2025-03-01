@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related DEV APIs"
+  contactDetails:
+    name: "Koshika Doe"
+    email: "ko@example.com"
